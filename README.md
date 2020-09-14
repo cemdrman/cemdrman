@@ -1,4 +1,9 @@
-### Hi there 👋
+## It's me, Cem
+
+<img src="bana_para_ver.jpg" width="550" height="450" />
+
+#### Hi, I'm Cem. For a while, i'm working on distributed systems on my prof carrier. Also, I'm a blogger at [bilisim.io](https://bilisim.io) about what i want to learn and what i'm currently working on for to contribute software development culture's and improving to myself
+
 
 <!--
 **cemdrman/cemdrman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
