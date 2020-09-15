@@ -40,3 +40,32 @@
 </a>
 
 </p>
+
+<p align="center">
+
+<img src="https://devicon.dev/devicon.git/icons/scala/scala-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/gitlab/gitlab-original.svg" width="25px" height="25px"/>
+
+<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="25px" height="25px"/>
+
+<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/android/android-original.svg" width="25px" height="25px"/>
+
+<img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/krakenjs/krakenjs-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/go/go-original.svg" width="25px" height="25px"/>
+
+<img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/apple/apple-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/rust/rust-plain.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/atom/atom-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/groovy/groovy-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/heroku/heroku-original.svg" width="25px" height="25px"/>
+
+</p>
