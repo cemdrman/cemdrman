@@ -6,9 +6,7 @@
 
 #### Hi, I'm Cem. For a while, i'm working on distributed systems on my prof carrier. Also, I'm a blogger at [bilisim.io](https://bilisim.io) about what i want to learn and what i'm currently working on for to contribute software development culture's and improving to myself
 
-<p align="center"> 
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"><p>
-</p>
+
 
 <p align="center">
 
@@ -40,6 +38,13 @@
 </a>
 
 </p>
+
+
+<p align="center"> 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70">
+</p>
+
+
 
 <p align="center">
 
