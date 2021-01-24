@@ -2,7 +2,7 @@
 
 [Bilisim.io](https://bilisim.io)
 
-[![Twitter: HA61L](https://img.shields.io/twitter/follow/HA61L?style=social)](https://twitter.com/cedii07)
+[![Twitter: HA61L](https://img.shields.io/twitter/follow/cedii07?style=social)](https://twitter.com/cedii07)
 
 <p align="center"> 
   <img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" />
